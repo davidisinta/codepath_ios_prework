@@ -21,18 +21,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-1. Locket- you share snaps of your day with friends at your convenience, you can only have up to 20 friends so the people on your friends list are people close to you and doesnt promote having too many friends because popularity is not a factor.
+1. Locket- you share snaps of your day with friends at your convenience, you can only have up to 20 friends so the people on your friends list are people close to you and doesnt promote having too many friends because popularity is not a driving factor unlike instagram/twitter.
 2. iOS Fitness App - keeps track of daily steps and activity, stores your steps data of all time so you can see your activity historically, has plenty of features for exercising and working out to keep fit.
 3. Snapchat - you can streak with friends and know whats going on in their lives without explicitly talking everyday, snapchat saves all the snaps you choose to save in your memories so you have a gallery of snaps to look back on, hides number of friends so it does not promote adding people just for the sake.
 
+The App I want to build is a flight tracking app, that will keep record of users and their potential destinations, I will also keep track of the fluctuations in the ticket prices and send them notifications whenever the ticket prices are lower than they usually are. 
 
-## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 David Isinta Nyakawa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
