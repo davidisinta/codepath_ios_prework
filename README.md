@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/c6a728765f074db09a9564aed4b4451b?sid=c15ed44f-7c91-4cba-86fa-9e942cb1b32a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
+      Library | Loom - 21 January 2024 - Watch Video
+    </a>
+    <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6a728765f074db09a9564aed4b4451b-with-play.gif">
+    </a>
+  </div>
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
