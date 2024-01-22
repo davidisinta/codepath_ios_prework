@@ -2,7 +2,7 @@
 
 Submitted by: **David Isinta Nyakawa**
 
-**andomBackground** is an app that displays a random background color every time a button is clicked.
+**randomBackground** is an app that displays a random background color every time a button is clicked.
 
 Time spent: **9** hours spent in total
 
@@ -20,6 +20,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+
+1. Locket- you share snaps of your day with friends at your convenience, you can only have up to 20 friends so the people on your friends list are people close to you and doesnt promote having too many friends because popularity is not a factor.
+2. iOS Fitness App - keeps track of daily steps and activity, stores your steps data of all time so you can see your activity historically, has plenty of features for exercising and working out to keep fit.
+3. Snapchat - you can streak with friends and know whats going on in their lives without explicitly talking everyday, snapchat saves all the snaps you choose to save in your memories so you have a gallery of snaps to look back on, hides number of friends so it does not promote adding people just for the sake.
+
 
 ## Notes
 
