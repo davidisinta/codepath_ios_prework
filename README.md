@@ -1,12 +1,10 @@
-# codepath_ios_prework
-
-# Prework - *Name of App Here*
+# Prework - *randomBackground*
 
 Submitted by: **David Isinta Nyakawa**
 
-**Name of your app** is an app that... [TODO] 
+**andomBackground** is an app that displays a random background color every time a button is clicked.
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
