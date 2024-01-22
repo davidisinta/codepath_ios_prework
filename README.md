@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
-      Library | Loom - 21 January 2024 - Watch Video
-    </a>
-    <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6a728765f074db09a9564aed4b4451b-with-play.gif">
-    </a>
-  </div>
+  <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
+    Library | Loom - 21 January 2024 - Watch Video
+  </a>
+  <a href="https://www.loom.com/share/c6a728765f074db09a9564aed4b4451b">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c6a728765f074db09a9564aed4b4451b-with-play.gif">
+  </a>
+</div>
 
 
 ## App Brainstorming (Step 4)
